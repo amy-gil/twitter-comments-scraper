@@ -1,0 +1,11 @@
+# Paste exported Twitter cookies here in JSON format
+[
+    {
+        "name": "auth_token",
+        "value": "YOUR_AUTH_TOKEN",
+        "domain": ".twitter.com",
+        "path": "/",
+        "httpOnly": true,
+        "secure": true
+    }
+]
