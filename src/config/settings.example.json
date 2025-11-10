@@ -1,0 +1,6 @@
+{
+    "cookies_file": "data/inputs.sample.txt",
+    "output_file": "data/sample.json",
+    "min_delay": 1,
+    "max_delay": 3
+}
